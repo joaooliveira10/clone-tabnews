@@ -1,3 +1,9 @@
 node_modules
 .next
-
+.vscode
+create-structure.js
+pages/game.txt
+pages/SnakeGameOK.js
+pages/SnakeGameTeste.js
+-n
+app
